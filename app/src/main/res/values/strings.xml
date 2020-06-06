@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple Music Player</string>
+    <string name="album_title">Album Title</string>
+</resources>
